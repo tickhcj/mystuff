@@ -9,7 +9,7 @@ hair = 'Black'
 
 print "Let's talk about %s." % name
 print "He's %.2f inches tall." % (height * 0.39)
-print "He's %.2f pounds heavy." % (weight * 2.2)
+print "He's %.2f pounds heavy." % round(weight * 2.2)
 print "Actually that's not too heavy."
 print "He's got %s eyes and %s hair." %(eyes, hair)
 print "His teeth are usually %s depending on the coffee." % teeth
