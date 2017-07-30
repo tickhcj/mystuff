@@ -2,4 +2,4 @@
 
 操作系统： Windows 7
 
-软件版本： Python2.7.13
+软件版本： Python 2.7.13
